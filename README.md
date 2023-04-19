@@ -1,6 +1,6 @@
 # Introduction
 
-This is a final project for my Project-Based Intern as a Big Data Analytics at PT. Kimia Farma, Tbk (provided by Rakamin Academy). As a Big Data Analyst Intern who understands the sales data for each Brand at Kimia Farma, I was assigned to create a dashboard for sales report in one year from the raw data that has been provided.  
+This is the final project for my Project-Based Intern as a Big Data Analytics at PT. Kimia Farma, Tbk (provided by Rakamin Academy). As a Big Data Analyst Intern who understands the sales data for each Brand at Kimia Farma, I was assigned to create a dashboard for sales reports in one year from the raw data that has been provided.
 
 # Tools
 - PostgreSQL
