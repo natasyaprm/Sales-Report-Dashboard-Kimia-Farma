@@ -13,4 +13,4 @@ This is a final project for my Project-Based Intern as a Big Data Analytics at P
 
 # Result
 The dashboard was created by Google Data Studio [here](https://lookerstudio.google.com/reporting/461e90ed-4ef9-4644-8f1b-d86a3e9c5805)
-! [Screen Shot 2023-04-19 at 14.51.12](https://drive.google.com/file/d/1Vr5dsMVJEM8gPugtVLMpRIZQPiAlqorA/view?usp=sharing)
+![Screen Shot 2023-04-19 at 14 51 12](https://user-images.githubusercontent.com/122350261/233009314-ca7d15ab-b271-4043-82cc-b3e78265af97.png)
