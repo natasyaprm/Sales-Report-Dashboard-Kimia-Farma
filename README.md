@@ -14,8 +14,4 @@ This is a final project for my Project-Based Intern as a Big Data Analytics at P
 # Result
 The dashboard was created by Google Data Studio [here](https://lookerstudio.google.com/reporting/461e90ed-4ef9-4644-8f1b-d86a3e9c5805) and this is the screen capture for the dashboard:
 ![Screen Shot 2023-04-19 at 14 51 12](https://user-images.githubusercontent.com/122350261/233010224-9e49a6f1-c4d4-44b5-b9ba-4bbf544f517c.png)
-From the dashboard, we can see the sales growth for the past year based on
--the brand of the product,
--the product itself,
--the city where all the products are being sold,
--the date of the transactions.
+
